@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon />
+    <StartupObject>Pantallas_Sistema_facturacion.Program</StartupObject>
+    <RootNamespace>Pantallas_Sistema_facturacion</RootNamespace>
+    <AssemblyName>Pantallas_Sistema_facturacion</AssemblyName>
+    <LangVersion>8.0</LangVersion>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+</Project>
